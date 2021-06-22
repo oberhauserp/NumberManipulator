@@ -1,0 +1,5 @@
+C:\Users\POberhau\Documents\Projects\NumberManipulator\numbermanipulator\obj\Debug\net5.0\NumberManipulator.csproj.AssemblyReference.cache
+C:\Users\POberhau\Documents\Projects\NumberManipulator\numbermanipulator\obj\Debug\net5.0\NumberManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POberhau\Documents\Projects\NumberManipulator\numbermanipulator\obj\Debug\net5.0\NumberManipulator.AssemblyInfoInputs.cache
+C:\Users\POberhau\Documents\Projects\NumberManipulator\numbermanipulator\obj\Debug\net5.0\NumberManipulator.AssemblyInfo.cs
+C:\Users\POberhau\Documents\Projects\NumberManipulator\numbermanipulator\obj\Debug\net5.0\NumberManipulator.csproj.CoreCompileInputs.cache
